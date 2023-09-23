@@ -1,5 +1,3 @@
-this is my first git project.
-
 <html>
 <head></head>
 <body>
